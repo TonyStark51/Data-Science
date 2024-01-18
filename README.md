@@ -1,2 +1,1 @@
-# SCIENCE-FICTION
-STARTING WITH MA STUFF
+My journey into the world of Data
